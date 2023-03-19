@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH07", "CH07", "{59DA2E36-308F-40A3-8F17-1995B5F177BB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH07_01.RoutedCommands", "CH07 Commands and MVVM\CH07_01.RoutedCommands\CH07_01.RoutedCommands.csproj", "{B72B61C4-250A-4B04-83B4-46B75A8B3D96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH07_02.RoutedCommandsV2", "CH07 Commands and MVVM\CH07_02.RoutedCommandsV2\CH07_02.RoutedCommandsV2.csproj", "{B00E4964-36B9-4F86-858F-5646C6576AE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +19,17 @@ Global
 		{B72B61C4-250A-4B04-83B4-46B75A8B3D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B72B61C4-250A-4B04-83B4-46B75A8B3D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B72B61C4-250A-4B04-83B4-46B75A8B3D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00E4964-36B9-4F86-858F-5646C6576AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00E4964-36B9-4F86-858F-5646C6576AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00E4964-36B9-4F86-858F-5646C6576AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00E4964-36B9-4F86-858F-5646C6576AE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B72B61C4-250A-4B04-83B4-46B75A8B3D96} = {59DA2E36-308F-40A3-8F17-1995B5F177BB}
+		{B00E4964-36B9-4F86-858F-5646C6576AE3} = {59DA2E36-308F-40A3-8F17-1995B5F177BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {316A1FE2-CDCD-464D-824F-2D3A0AED4FF7}
